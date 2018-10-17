@@ -29,9 +29,7 @@
     "lodash": "^4.17.11",
     "pug": "^2.0.3",
     "ts-node": "^7.0.1",
-    "ts-node-dev": "^1.0.0-pre.30"
-  },
-  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.30",
     "typescript": "^3.1.1"
   },
   "homepage": "https://github.com/chuson1996/rens-coupon-app#readme"
